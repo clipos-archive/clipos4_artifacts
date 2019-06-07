@@ -9,6 +9,6 @@ To download these artifacts and all the other necessary files to build CLIP OS 4
 
 ## CLIP OS 4 SDK
 
-[This archive](clip-sdk_2019-06-06.tar.xz) can be used as the rootfs of a (x86-64) LXC container with an appropriate [configuration](https://github.com/clipos-archive/src_platform_clip-devutils/tree/master/share/lxc).
+[This archive](https://gitlab.com/CLIPOS-Archive/clipos4_artifacts/raw/master/clip-sdk_2019-06-06.tar.xz) can be used as the rootfs of a (x86-64) LXC container with an appropriate [configuration](https://github.com/clipos-archive/src_platform_clip-devutils/tree/master/share/lxc).
 The necessary steps to set up this SDK can be found in the [development documentation](https://github.com/clipos-archive/clipos4_doc/blob/master/developpeur/1103_Environnement_de_Developpement_2.3.pdf).
 You can then follow the [packaging documentation](https://github.com/clipos-archive/clipos4_doc/blob/master/developpeur/4001_Guide_de_Creation_de_Paquetage_1.3.pdf) to build CLIP OS 4.
